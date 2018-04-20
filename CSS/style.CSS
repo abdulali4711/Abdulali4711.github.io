@@ -1,1 +1,19 @@
-df
+.example{
+  height: 300px;
+  background-color: blue;
+}
+body{
+  background-color: #000;
+}
+.footer{
+  background-color: #000;
+  color: #fff;
+}
+.footer li{
+  display: inline-block;
+  text-align: center;
+
+}
+.footer ul{
+  text-align: center;
+}
